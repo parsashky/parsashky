@@ -117,3 +117,28 @@ I'm always happy to discuss:
 **Made with ❤️ by Mohammad Reza Parsaii**
 
 </div>
+---
+
+## 📊 My GitHub Insights & Activity
+<p align="center">
+  <!-- استیک گیت‌هاب: نشان‌دهنده تداوم کامیت‌های تو -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsashky&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- آمار کلی گیت‌هاب: ستاره‌ها، کامیت‌ها و رنک تو -->
+  <img src="https://github-readme-stats.vercel.app/api?username=parsashky&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Parsa's GitHub Stats" width="48%" />
+  
+  <!-- زبان‌های برتری که با آن‌ها کد زدی -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsashky&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="45%" />
+</p>
+
+### 🕒 Weekly Coding Activity (via WakaTime)
+<!-- این بخش زمان واقعی که روی هر زبان صرف کردی را نشان می‌دهد -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=parsashky&theme=tokyonight&layout=compact" alt="WakaTime Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsashky&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
