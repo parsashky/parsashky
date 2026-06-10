@@ -97,27 +97,7 @@
 
 ---
 
-## 💬 Let's Talk!
 
-I'm always happy to discuss:
-
-- 💻 Coding and Software Development
-- 🔬 Data Science and Analysis
-- 🌍 Tech Trends and Emerging Technologies
-- 🤝 Collaboration and Open Source
-
-> **Feel free to reach out to me via LinkedIn or Email!**
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving it a star!
-
-**Made with ❤️ by Mohammad Reza Parsaii**
-
-</div>
----
 
 ## 📊 My GitHub Insights & Activity
 <p align="center">
@@ -142,3 +122,24 @@ I'm always happy to discuss:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parsashky&theme=tokyonight" alt="Profile Details" width="100%" />
 </p>
+## 💬 Let's Talk!
+
+I'm always happy to discuss:
+
+- 💻 Coding and Software Development
+- 🔬 Data Science and Analysis
+- 🌍 Tech Trends and Emerging Technologies
+- 🤝 Collaboration and Open Source
+
+> **Feel free to reach out to me via LinkedIn or Email!**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving it a star!
+
+**Made with ❤️ by Mohammad Reza Parsaii**
+
+</div>
+---
